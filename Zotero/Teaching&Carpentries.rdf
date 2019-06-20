@@ -1,0 +1,2431 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-0-470-48410-4%20978-0-470-61759-5">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ambrose</foaf:surname>
+                        <foaf:givenname>Susan A</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lovett</foaf:surname>
+                        <foaf:givenname>Marsha</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bridges</foaf:surname>
+                        <foaf:givenname>Michael W</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DiPietro</foaf:surname>
+                        <foaf:givenname>Michele</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Norman</foaf:surname>
+                        <foaf:givenname>Marie K</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>ISBN 978-0-470-48410-4 978-0-470-61759-5</dc:identifier>
+        <dc:date>2010</dc:date>
+        <dc:description>OCLC: 468969206</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dcterms:abstract>From the Inside Flap: Any conversation about effective teaching must begin with a consideration of how students learn. However, instructors may find a gap between resources that focus on the technical research on learning and those that provide practical classroom strategies. How Learning Works provides the bridge for such a gap. In this volume, the authors introduce seven general principles of learning, distilled from the research literature as well as from twenty-seven years of experience working one-on-one with college faculty. They have drawn on research from a breadth of perspectives (cognitive, developmental, and social psychology; educational research; anthropology; demographics; and organizational behavior) to identify a set of key principles underlying learning-from how effective organization enhances retrieval and use of information to what impacts motivation. These principles provide instructors with an understanding of student learning that can help them see why certain teaching approaches are or are not supporting student learning, generate or refine teaching approaches and strategies that more effectively foster student learning in specific contexts, and transfer and apply these principles to new courses. For anyone who wants to improve his or her students' learning, it is crucial to understand how that learning works and how to best foster it. This vital resource is grounded in learning theory and based on research evidence, while being easy to understand and apply to college teaching.</dcterms:abstract>
+        <dc:title>How learning works: seven research-based principles for smart teaching</dc:title>
+        <z:shortTitle>How learning works</z:shortTitle>
+    </bib:Book>
+    <bib:Report rdf:about="#item_9">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aranda</foaf:surname>
+                        <foaf:givenname>Jorge</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <bib:pages>29</bib:pages>
+        <dc:date>July 4th 2012</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Software Carpentry Assessment Report</dc:title>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/Aranda - Software Carpentry Assessment Report.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://software-carpentry.org/files/bib/aranda-assessment-2012-07.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:33:28</dcterms:dateSubmitted>
+        <dc:title>Aranda - Software Carpentry Assessment Report.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_11"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:34:24</dcterms:dateSubmitted>
+        <dc:title>A Quick Introduction to Version Control with Git and GitHub</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/article.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:34:27</dcterms:dateSubmitted>
+        <dc:title>A Quick Introduction to Version Control with Git and GitHub</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_13">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duckles</foaf:surname>
+                        <foaf:givenname>Beth</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <dc:date>January 2016</dc:date>
+        <dc:title>Value of Software Carpentry to Instructors</dc:title>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/duckles-instructor-engagement-2016.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://software-carpentry.org/files/bib/duckles-instructor-engagement-2016.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:34:42</dcterms:dateSubmitted>
+        <dc:title>duckles-instructor-engagement-2016.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_15">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gentzkow</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shapiro</foaf:surname>
+                        <foaf:givenname>Jesse M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_14"/>
+        <bib:pages>45</bib:pages>
+        <dc:date>March 10, 2014</dc:date>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Code and Data for the Social Sciences: A Practitioner’s Guide</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/14/Gentzkow and Shapiro - Code and Data for the Social Sciences A Practitio.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://gentzkow.people.stanford.edu/sites/g/files/sbiybj2666/f/codeanddata.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:36:36</dcterms:dateSubmitted>
+        <dc:title>Gentzkow and Shapiro - Code and Data for the Social Sciences A Practitio.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4244-3737-5">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4244-3737-5</dc:identifier>
+                <dc:identifier>DOI 10.1109/SECSE.2009.5069155</dc:identifier>
+                <dc:title>2009 ICSE Workshop on Software Engineering for Computational Science and Engineering</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vancouver, BC, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hannay</foaf:surname>
+                        <foaf:givenname>Jo Erskine</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacLeod</foaf:surname>
+                        <foaf:givenname>Carolyn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singer</foaf:surname>
+                        <foaf:givenname>Janice</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Langtangen</foaf:surname>
+                        <foaf:givenname>Hans Petter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pfahl</foaf:surname>
+                        <foaf:givenname>Dietmar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Greg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_16"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/5069155/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-8</bib:pages>
+        <dc:date>05/2009</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:37:15</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2009 ICSE Workshop on Software Engineering for Computational Science and Engineering (SECSE)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <z:language>en</z:language>
+        <dc:title>How do scientists develop and use scientific software?</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/Hannay et al. - 2009 - How do scientists develop and use scientific softw.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://software-carpentry.org/files/bib/secse-survey-2009.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:37:12</dcterms:dateSubmitted>
+        <dc:title>Hannay et al. - 2009 - How do scientists develop and use scientific softw.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://peerj.com/preprints/1448">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>PeerJ Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hart</foaf:surname>
+                        <foaf:givenname>Edmund</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barmby</foaf:surname>
+                        <foaf:givenname>Pauline</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>LeBauer</foaf:surname>
+                        <foaf:givenname>David</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Michonneau</foaf:surname>
+                        <foaf:givenname>François</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mount</foaf:surname>
+                        <foaf:givenname>Sarah</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mulrooney</foaf:surname>
+                        <foaf:givenname>Patrick</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poisot</foaf:surname>
+                        <foaf:givenname>Timothée</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woo</foaf:surname>
+                        <foaf:givenname>Kara H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zimmerman</foaf:surname>
+                        <foaf:givenname>Naupaka</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hollister</foaf:surname>
+                        <foaf:givenname>Jeffrey W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_19"/>
+        <link:link rdf:resource="#item_20"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/1448</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-04-26</dc:date>
+        <dc:description>DOI: 10.7287/peerj.preprints.1448v2</dc:description>
+        <dcterms:dateSubmitted>2019-06-19 01:37:42</dcterms:dateSubmitted>
+        <z:libraryCatalog>peerj.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Data is the central currency of science, but the nature of scientific data has changed dramatically with the rapid pace of technology. This change has led to the development of a wide variety of data formats, dataset sizes, data complexity, data use cases, and data sharing practices. Improvements in high throughput DNA sequencing, sustained institutional support for large sensor networks, and sky surveys with large-format digital cameras have created massive quantities of data. At the same time, the combination of increasingly diverse research teams and data aggregation in portals (e.g. for biodiversity data, GBIF or iDigBio) necessitates increased coordination among data collectors and institutions. As a consequence, “data” can now mean anything from petabytes of information stored in professionally-maintained databases, through spreadsheets on a single computer, to hand-written tables in lab notebooks on shelves. All remain important, but data curation practices must continue to keep pace with the changes brought about by new forms and practices of data collection and storage.</dcterms:abstract>
+        <prism:number>e1448v2</prism:number>
+        <dc:title>Ten simple rules for digital data storage</dc:title>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/Hart et al. - 2016 - Ten simple rules for digital data storage.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/1448.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:37:45</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/20/1448.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/1448/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:37:51</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-15-00010.1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0003-0007"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Irving</foaf:surname>
+                        <foaf:givenname>Damien</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_22"/>
+        <link:link rdf:resource="#item_25"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-15-00010.1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1149-1158</bib:pages>
+        <dc:date>October 7, 2015</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:38:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>journals.ametsoc.org (Atypon)</z:libraryCatalog>
+        <dcterms:abstract>Weather and climate science has undergone a computational revolution in recent decades, to the point where all modern research relies heavily on software and code. Despite this profound change in the research methods employed by weather and climate scientists, the reporting of computational results has changed very little in relevant academic journals. This lag has led to something of a reproducibility crisis, whereby it is impossible to replicate and verify most of today’s published computational results. While it is tempting to simply decry the slow response of journals and funding agencies in the face of this crisis, there are very few examples of reproducible weather and climate research upon which to base new communication standards. In an attempt to address this deficiency, this essay describes a procedure for reporting computational results that was employed in a recent Journal of Climate paper. The procedure was developed to be consistent with recommended computational best practices and seeks to minimize the time burden on authors, which has been identified as the most important barrier to publishing code. It should provide a starting point for weather and climate scientists looking to publish reproducible research, and it is proposed that journals could adopt the procedure as a minimum standard.</dcterms:abstract>
+        <dc:title>A Minimum Standard for Publishing Computational Results in the Weather and Climate Sciences</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0003-0007">
+        <prism:volume>97</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>Bulletin of the American Meteorological Society</dc:title>
+        <dc:identifier>ISSN 0003-0007</dc:identifier>
+        <dcterms:alternative>Bull. Amer. Meteor. Soc.</dcterms:alternative>
+        <dc:identifier>DOI 10.1175/BAMS-D-15-00010.1</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/Irving - 2015 - A Minimum Standard for Publishing Computational Re.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-15-00010.1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:38:48</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_25">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/25/BAMS-D-15-00010.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-15-00010.1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:38:52</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1505.05425">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1089-9995,%202158-1428"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacobs</foaf:surname>
+                        <foaf:givenname>Christian T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gorman</foaf:surname>
+                        <foaf:givenname>Gerard J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rees</foaf:surname>
+                        <foaf:givenname>Huw E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Craig</foaf:surname>
+                        <foaf:givenname>Lorraine</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_24"/>
+        <link:link rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_27"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computers and Society</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1505.05425</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>183-198</bib:pages>
+        <dc:date>2016-08-19</dc:date>
+        <dc:description>arXiv: 1505.05425</dc:description>
+        <dcterms:dateSubmitted>2019-06-19 01:38:50</dcterms:dateSubmitted>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dcterms:abstract>Computer programming was once thought of as a skill required only by professional software developers. But today, given the ubiquitous nature of computation and data science it is quickly becoming necessary for all scientists and engineers to have at least a basic knowledge of how to program. Teaching how to program, particularly to those students with little or no computing background, is well-known to be a difficult task. However, there is also a wealth of evidence-based teaching practices for teaching programming skills which can be applied to greatly improve learning outcomes and the student experience. Adopting these practices naturally gives rise to greater learning efficiency - this is critical if programming is to be integrated into an already busy geoscience curriculum. This paper considers an undergraduate computer programming course, run during the last 5 years in the Department of Earth Science and Engineering at Imperial College London. The teaching methodologies that were used each year are discussed alongside the challenges that were encountered, and how the methodologies affected student performance. Anonymised student marks and feedback are used to highlight this, and also how the adjustments made to the course eventually resulted in a highly effective learning environment.</dcterms:abstract>
+        <dc:title>Experiences with efficient methodologies for teaching computer programming to geoscientists</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1089-9995,%202158-1428">
+        <prism:volume>64</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Journal of Geoscience Education</dc:title>
+        <dc:identifier>ISSN 1089-9995, 2158-1428</dc:identifier>
+        <dcterms:alternative>Journal of Geoscience Education</dcterms:alternative>
+        <dc:identifier>DOI 10.5408/15-101.1</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_24">
+        <rdf:value>Comment: Second revised version. This version was accepted for publication in the Journal of Geoscience Education on 9 June 2016. Contains 5 figures. The main change is the inclusion of a new section on outlook and future work</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/26/Jacobs et al. - 2016 - Experiences with efficient methodologies for teach.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.arxiv.org/pdf/1505.05425.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:38:57</dcterms:dateSubmitted>
+        <dc:title>arXiv:1505.05425 PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/1505.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1505.05425</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:39:00</dcterms:dateSubmitted>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1407.5648">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1407.5648 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petre</foaf:surname>
+                        <foaf:givenname>Marian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Greg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_29"/>
+        <link:link rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_32"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Software Engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1407.5648</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014-07-21</dc:date>
+        <dc:description>arXiv: 1407.5648</dc:description>
+        <dcterms:dateSubmitted>2019-06-19 01:39:16</dcterms:dateSubmitted>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dcterms:abstract>We describe two pilot studies of code review by and for scientists. Our principal findings are that scientists are enthusiastic, but need to be shown code review in action, and that just-in-time review of small code changes is more likely to succeed than large-scale end-of-work reviews.</dcterms:abstract>
+        <dc:title>Code Review For and By Scientists</dc:title>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_29">
+       <rdf:value>Comment: 4 pages</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/Petre and Wilson - 2014 - Code Review For and By Scientists.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.arxiv.org/pdf/1407.5648.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:39:20</dcterms:dateSubmitted>
+        <dc:title>arXiv:1407.5648 PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/32/1407.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1407.5648</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:39:22</dcterms:dateSubmitted>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1553-7358"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez-Riverol</foaf:surname>
+                        <foaf:givenname>Yasset</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gatto</foaf:surname>
+                        <foaf:givenname>Laurent</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenname>Rui</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sachsenberg</foaf:surname>
+                        <foaf:givenname>Timo</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uszkoreit</foaf:surname>
+                        <foaf:givenname>Julian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leprevost</foaf:surname>
+                        <foaf:givenname>Felipe da Veiga</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fufezan</foaf:surname>
+                        <foaf:givenname>Christian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ternent</foaf:surname>
+                        <foaf:givenname>Tobias</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eglen</foaf:surname>
+                        <foaf:givenname>Stephen J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katz</foaf:surname>
+                        <foaf:givenname>Daniel S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pollard</foaf:surname>
+                        <foaf:givenname>Tom J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Konovalov</foaf:surname>
+                        <foaf:givenname>Alexander</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flight</foaf:surname>
+                        <foaf:givenname>Robert M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blin</foaf:surname>
+                        <foaf:givenname>Kai</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vizcaíno</foaf:surname>
+                        <foaf:givenname>Juan Antonio</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_33"/>
+        <link:link rdf:resource="#item_34"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bioinformatics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Control systems</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Health services research</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Open source software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Scientific publishing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Source code</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Web-based applications</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e1004947</bib:pages>
+        <dc:date>14-Jul-2016</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:39:20</dcterms:dateSubmitted>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Ten Simple Rules for Taking Advantage of Git and GitHub</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1553-7358">
+        <prism:volume>12</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>PLOS Computational Biology</dc:title>
+        <dc:identifier>ISSN 1553-7358</dc:identifier>
+        <dcterms:alternative>PLOS Computational Biology</dcterms:alternative>
+        <dc:identifier>DOI 10.1371/journal.pcbi.1004947</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/Perez-Riverol et al. - 2016 - Ten Simple Rules for Taking Advantage of Git and G.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1004947&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:39:22</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/article.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:39:25</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <prism:number>7</prism:number>
+                <dc:title>PLOS Computational Biology</dc:title>
+                <dc:identifier>ISSN 1553-7358</dc:identifier>
+                <dcterms:alternative>PLOS Computational Biology</dcterms:alternative>
+                <dc:identifier>DOI 10.1371/journal.pcbi.1000424</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noble</foaf:surname>
+                        <foaf:givenname>William Stafford</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_36"/>
+        <link:link rdf:resource="#item_37"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bioinformatics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Biologists</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computational biology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Experimental design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Human learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Source code</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e1000424</bib:pages>
+        <dc:date>31-Jul-2009</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:39:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>A Quick Guide to Organizing Computational Biology Projects</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/36/Noble - 2009 - A Quick Guide to Organizing Computational Biology .pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1000424&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:01</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/article.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:04</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1506.02575">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1506.02575 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Simperler</foaf:surname>
+                        <foaf:givenname>Alexandra</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Greg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_39"/>
+        <link:link rdf:resource="#item_40"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computers and Society</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1506.02575</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015-06-08</dc:date>
+        <dc:description>arXiv: 1506.02575</dc:description>
+        <dcterms:dateSubmitted>2019-06-19 01:40:39</dcterms:dateSubmitted>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dcterms:abstract>The aim of this study was to investigate if participants of Software Carpentry (SC) get more done in less time. We asked 32 questions to assess 24 former participants to analyse if SC gave them the computing skills to accomplish this. Our research shows that time was already saved during the workshop as it could shorten the learning process of new skills. A majority of participants were able to use these new skills straight away and thus could speed up their day to day work.</dcterms:abstract>
+        <dc:title>Software Carpentry get more done in less time</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_39">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/39/Simperler and Wilson - 2015 - Software Carpentry get more done in less time.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.arxiv.org/pdf/1506.02575.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:42</dcterms:dateSubmitted>
+        <dc:title>arXiv:1506.02575 PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/40/1506.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1506.02575</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:44</dcterms:dateSubmitted>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://ijdc.net/index.php/ijdc/article/view/10.1.135">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_43"/>
+        <link:link rdf:resource="#item_42"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>curation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>DCC</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital curation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>digital preservation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>IJDC</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>International Journal of Digital Curation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>preservation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ijdc.net/index.php/ijdc/article/view/10.1.135</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:45</dcterms:dateSubmitted>
+        <z:libraryCatalog>ijdc.net</z:libraryCatalog>
+        <z:language>en-US</z:language>
+        <dc:title>Data Carpentry: Workshops to Increase Data Literacy for Researchers | International Journal of Digital Curation</dc:title>
+        <z:shortTitle>Data Carpentry</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/43/Data Carpentry Workshops to Increase Data Literac.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ijdc.net/article/download/10.1.135/386</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:52</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_42">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/42/10.1.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ijdc.net/index.php/ijdc/article/view/10.1.135</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:50</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://peerj.com/preprints/7v2">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>PeerJ Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>White</foaf:surname>
+                        <foaf:givenname>Ethan P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baldridge</foaf:surname>
+                        <foaf:givenname>Elita</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brym</foaf:surname>
+                        <foaf:givenname>Zachary T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Locey</foaf:surname>
+                        <foaf:givenname>Kenneth J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McGlinn</foaf:surname>
+                        <foaf:givenname>Daniel J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Supp</foaf:surname>
+                        <foaf:givenname>Sarah R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_45"/>
+        <link:link rdf:resource="#item_46"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/7v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2013-07-05</dc:date>
+        <dc:description>DOI: 10.7287/peerj.preprints.7v2</dc:description>
+        <dcterms:dateSubmitted>2019-06-19 01:40:53</dcterms:dateSubmitted>
+        <z:libraryCatalog>peerj.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Sharing data is increasingly considered to be an important part of the scientific process. Making your data publicly available allows original results to be reproduced and new analyses to be conducted. While sharing your data is the first step in allowing reuse, it is also important that the data be easy to understand and use. We describe nine simple ways to make it easy to reuse the data that you share and also make it easier to work with it yourself. Our recommendations focus on making your data understandable, easy to analyze, and readily available to the wider community of scientists.</dcterms:abstract>
+        <prism:number>e7v2</prism:number>
+        <dc:title>Nine simple ways to make it easier to (re)use your data</dc:title>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/45/White et al. - 2013 - Nine simple ways to make it easier to (re)use your.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/7v2.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:55</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/7.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/7/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:40:58</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1545-7885"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Greg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aruliah</foaf:surname>
+                        <foaf:givenname>D. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenname>C. Titus</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hong</foaf:surname>
+                        <foaf:givenname>Neil P. Chue</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davis</foaf:surname>
+                        <foaf:givenname>Matt</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guy</foaf:surname>
+                        <foaf:givenname>Richard T.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haddock</foaf:surname>
+                        <foaf:givenname>Steven H. D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huff</foaf:surname>
+                        <foaf:givenname>Kathryn D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenname>Ian M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plumbley</foaf:surname>
+                        <foaf:givenname>Mark D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Waugh</foaf:surname>
+                        <foaf:givenname>Ben</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>White</foaf:surname>
+                        <foaf:givenname>Ethan P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Paul</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_48"/>
+        <link:link rdf:resource="#item_49"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Computers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Open source software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Programming languages</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Research validity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Scientists</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Software tools</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e1001745</bib:pages>
+        <dc:date>07-Jan-2014</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:41:01</dcterms:dateSubmitted>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>We describe a set of best practices for scientific software development, based on research and experience, that will improve scientists' productivity and the reliability of their software.</dcterms:abstract>
+        <dc:title>Best Practices for Scientific Computing</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1545-7885">
+        <prism:volume>12</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>PLOS Biology</dc:title>
+        <dc:identifier>ISSN 1545-7885</dc:identifier>
+        <dcterms:alternative>PLOS Biology</dcterms:alternative>
+        <dc:identifier>DOI 10.1371/journal.pbio.1001745</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/48/Wilson et al. - 2014 - Best Practices for Scientific Computing.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1001745&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:03</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/49/article.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:06</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://f1000research.com/articles/3-62/v2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2046-1402"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilson</foaf:surname>
+                        <foaf:givenname>Greg</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_52"/>
+        <link:link rdf:resource="#item_51"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/3-62/v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>62</bib:pages>
+        <dc:date>2016-1-28</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:41:12</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Since its start in 1998, Software Carpentry has evolved from a week-long training course at the US national laboratories into a worldwide volunteer effort to improve researchers' computing skills. This paper explains what we have learned along the way, the challenges we now face, and our plans for the future.</dcterms:abstract>
+        <dc:title>Software Carpentry: lessons learned</dc:title>
+        <z:shortTitle>Software Carpentry</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2046-1402">
+        <prism:volume>3</prism:volume>
+        <dc:title>F1000Research</dc:title>
+        <dc:identifier>ISSN 2046-1402</dc:identifier>
+        <dcterms:alternative>F1000Res</dcterms:alternative>
+        <dc:identifier>DOI 10.12688/f1000research.3-62.v2</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_52">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/52/Wilson - 2016 - Software Carpentry lessons learned.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://f1000research.com/articles/3-62/v2/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:29</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/51/v2.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/3-62/v2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:27</dcterms:dateSubmitted>
+        <dc:title>Software Carpentry: lessons learned | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://f1000research.com/articles/6-1040">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_54"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-1040</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:36</dcterms:dateSubmitted>
+        <dc:title>Developing a strategy for computational lab... | F1000Research</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/54/6-1040.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-1040</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:38</dcterms:dateSubmitted>
+        <dc:title>Developing a strategy for computational lab... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://f1000research.com/articles/3-62">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_56"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/3-62</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:47</dcterms:dateSubmitted>
+        <dc:title>Software Carpentry: lessons learned | F1000Research</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/56/3-62.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/3-62</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:48</dcterms:dateSubmitted>
+        <dc:title>Software Carpentry: lessons learned | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://f1000research.com/articles/6-1557">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_58"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-1557</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:41:59</dcterms:dateSubmitted>
+        <dc:title>The ELIXIR-EXCELERATE Train-the-Trainer pilot... | F1000Research</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_58">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/58/6-1557.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-1557</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:42:01</dcterms:dateSubmitted>
+        <dc:title>The ELIXIR-EXCELERATE Train-the-Trainer pilot... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://f1000research.com/articles/7-1599/v1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>F1000Research</dc:title>
+                <dc:identifier>ISSN 2046-1402</dc:identifier>
+                <dcterms:alternative>F1000Res</dcterms:alternative>
+                <dc:identifier>DOI 10.12688/f1000research.16231.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sufi</foaf:surname>
+                        <foaf:givenname>Shoaib</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jay</foaf:surname>
+                        <foaf:givenname>Caroline</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_63"/>
+        <link:link rdf:resource="#item_61"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/7-1599/v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1599</bib:pages>
+        <dc:date>2018-10-3</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:42:18</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Background:
+              This paper reports the results of an evaluation of the Software Sustainability Institute’s Fellowship Programme, which focused on identifying and categorising the benefits that the fellowship has afforded its recipients, via a series of open questions.
+            
+            
+              Methods:
+              The evaluation took the form of a survey open to people awarded Fellowships between 2012 and 2016, which asked people to report the effect that the programme had had on them, their institutions, their research domains and their careers.
+            
+            
+              Results:
+              The results show that the Fellowship plays a wide-ranging role in supporting communities of best practice and skills transfer, and that a significant benefit is the way it has raised the profile of software in research, and those people who develop and advocate for it.
+            
+            
+              Conclusions:
+              The evaluation of the programme has shown the need to support research software
+              in situ
+              and credit the engineers and researchers who are working in this important area that supports reproducibility, reuse and the integrity of research investments.</dcterms:abstract>
+        <dc:title>Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme</dc:title>
+        <z:shortTitle>Raising the status of software in research</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_63">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/63/Sufi and Jay - 2018 - Raising the status of software in research A surv.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://f1000research.com/articles/7-1599/v1/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:42:34</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/61/7-1599.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/7-1599</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:42:31</dcterms:dateSubmitted>
+        <dc:title>Raising the status of software in research: A... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://f1000research.com/articles/6-952">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_62"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-952</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:42:29</dcterms:dateSubmitted>
+        <dc:title>ELIXIR-UK role in bioinformatics training at the... | F1000Research</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_62">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/62/6-952.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-952</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:42:32</dcterms:dateSubmitted>
+        <dc:title>ELIXIR-UK role in bioinformatics training at the... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://f1000research.com/articles/8-251/v1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>F1000Research</dc:title>
+                <dc:identifier>ISSN 2046-1402</dc:identifier>
+                <dcterms:alternative>F1000Res</dcterms:alternative>
+                <dc:identifier>DOI 10.12688/f1000research.18357.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Horn</foaf:surname>
+                        <foaf:givenname>John</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abe</foaf:surname>
+                        <foaf:givenname>Sumiko</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ambite</foaf:surname>
+                        <foaf:givenname>José Luis</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Attwood</foaf:surname>
+                        <foaf:givenname>Teresa K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beard</foaf:surname>
+                        <foaf:givenname>Niall</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bellis</foaf:surname>
+                        <foaf:givenname>Louisa</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhattrai</foaf:surname>
+                        <foaf:givenname>Avnish</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bui</foaf:surname>
+                        <foaf:givenname>Alex</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burns</foaf:surname>
+                        <foaf:givenname>Gully</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fierro</foaf:surname>
+                        <foaf:givenname>Lily</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gordon</foaf:surname>
+                        <foaf:givenname>Jonathan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grethe</foaf:surname>
+                        <foaf:givenname>Jeffrey</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamdar</foaf:surname>
+                        <foaf:givenname>Jeana</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lei</foaf:surname>
+                        <foaf:givenname>Xiaoyu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lerman</foaf:surname>
+                        <foaf:givenname>Kristina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McGrath</foaf:surname>
+                        <foaf:givenname>Annette</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mulder</foaf:surname>
+                        <foaf:givenname>Nicola</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>O'Driscoll</foaf:surname>
+                        <foaf:givenname>Caroline</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stewart</foaf:surname>
+                        <foaf:givenname>Crystal</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tyagi</foaf:surname>
+                        <foaf:givenname>Sonika</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_65"/>
+        <link:link rdf:resource="#item_66"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/8-251/v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>251</bib:pages>
+        <dc:date>2019-3-4</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:43:04</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The increasing richness and diversity of biomedical data types creates major organizational and analytical impediments to rapid translational impact in the context of training and education. As biomedical data-sets increase in size, variety and complexity, they challenge conventional methods for sharing, managing and analyzing those data. In May 2017, we convened a two-day meeting between the BD2K Training Coordinating Center (TCC), ELIXIR Training/TeSS, GOBLET, H3ABioNet, EMBL-ABR, bioCADDIE and the CSIRO, in Huntington Beach, California, to compare and contrast our respective activities, and how these might be leveraged for wider impact on an international scale. Discussions focused on the role of i) training for biomedical data science; ii) the need to promote core competencies, and the ii) development of career paths. These led to specific conversations about i) the values of standardizing and sharing data science training resources; ii) challenges in encouraging adoption of training material standards; iii) strategies and best practices for the personalization and customization of learning experiences; iv) processes of identifying stakeholders and determining how they should be accommodated; and v) discussions of joint partnerships to lead the world on data science training in ways that benefit all stakeholders. Generally, international cooperation was viewed as essential for accommodating the widest possible participation in the modern bioscience enterprise, providing skills in a truly “FAIR” manner, addressing the importance of data science understanding worldwide. Several recommendations for the exchange of educational frameworks are made, along with potential sources for support, and plans for further cooperative efforts are presented.</dcterms:abstract>
+        <dc:title>Advancing the international data science workforce through shared training and education</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/8-251.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/8-251</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:43:14</dcterms:dateSubmitted>
+        <dc:title>Advancing the international data science... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/66/Van Horn et al. - 2019 - Advancing the international data science workforce.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://f1000research.com/articles/8-251/v1/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:43:17</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://f1000research.com/articles/6-273">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_68"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:43:21</dcterms:dateSubmitted>
+        <dc:title>General guidelines for biomedical software... | F1000Research</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/68/6-273.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/6-273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:43:23</dcterms:dateSubmitted>
+        <dc:title>General guidelines for biomedical software... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://f1000research.com/articles/7-1309/v1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>F1000Research</dc:title>
+                <dc:identifier>ISSN 2046-1402</dc:identifier>
+                <dcterms:alternative>F1000Res</dcterms:alternative>
+                <dc:identifier>DOI 10.12688/f1000research.15936.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harris</foaf:surname>
+                        <foaf:givenname>Nomi L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wiencko</foaf:surname>
+                        <foaf:givenname>Heather</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chapman</foaf:surname>
+                        <foaf:givenname>Brad</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cock</foaf:surname>
+                        <foaf:givenname>Peter J.A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hokamp</foaf:surname>
+                        <foaf:givenname>Karsten</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lapp</foaf:surname>
+                        <foaf:givenname>Hilmar</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fields</foaf:surname>
+                        <foaf:givenname>Chris</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greshake Tzovaras</foaf:surname>
+                        <foaf:givenname>Bastian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_71"/>
+        <link:link rdf:resource="#item_70"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/7-1309/v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1309</bib:pages>
+        <dc:date>2018-8-17</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:43:48</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>In 2018, the annual Bioinformatics Open Source Conference was held for the first time in conjunction with the Galaxy Community Conference, as an experiment to see if we could reach people in the bioinformatics community who aren’t part of the audience attracted by ISMB. Held in June 2018 at Reed College in Portland, Oregon,
+              
+                GCCBOSC
+              
+              (Galaxy Community Conference and Bioinformatics Open Source Conference) attracted over 300 participants from around the world. The meeting started with two days of training, followed by two days of talks and poster/demo sessions (with some joint and some parallel sessions). The joint sessions included well-received keynote talks by Tracy Teal, Fernando Pérez and Lucia Peixoto, as well as a panel discussion about documentation and training. After the main meeting, many attendees stayed for up to four additional collaboration days, an extended version of the Codefests that have been held in conjunction with previous BOSCs. GCCBOSC was a successful experiment. The organizers concluded that the best way to serve the broadest community of potential BOSC attendees will be to partner some years with the International Society for Computational Biology (ISMB) and others with GCC.</dcterms:abstract>
+        <dc:title>The 2018 Bioinformatics Open Source Conference (GCCBOSC 2018)</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/71/Harris et al. - 2018 - The 2018 Bioinformatics Open Source Conference (GC.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://f1000research.com/articles/7-1309/v1/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:44:01</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/70/7-1309.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/7-1309</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:43:57</dcterms:dateSubmitted>
+        <dc:title>The 2018 Bioinformatics Open Source Conference... | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://f1000research.com/articles/7-1926/v1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>F1000Research</dc:title>
+                <dc:identifier>ISSN 2046-1402</dc:identifier>
+                <dcterms:alternative>F1000Res</dcterms:alternative>
+                <dc:identifier>DOI 10.12688/f1000research.17425.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katz</foaf:surname>
+                        <foaf:givenname>Daniel S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenname>Gabrielle</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barba</foaf:surname>
+                        <foaf:givenname>Lorena A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Berg</foaf:surname>
+                        <foaf:givenname>Devin R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bik</foaf:surname>
+                        <foaf:givenname>Holly</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boettiger</foaf:surname>
+                        <foaf:givenname>Carl</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Borgman</foaf:surname>
+                        <foaf:givenname>Christine L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenname>C. Titus</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buck</foaf:surname>
+                        <foaf:givenname>Stuart</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burd</foaf:surname>
+                        <foaf:givenname>Randy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Waard</foaf:surname>
+                        <foaf:givenname>Anita</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eve</foaf:surname>
+                        <foaf:givenname>Martin Paul</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Granger</foaf:surname>
+                        <foaf:givenname>Brian E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Greenberg</foaf:surname>
+                        <foaf:givenname>Josh</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Howe</foaf:surname>
+                        <foaf:givenname>Adina</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Howe</foaf:surname>
+                        <foaf:givenname>Bill</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khanna</foaf:surname>
+                        <foaf:givenname>May</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Killeen</foaf:surname>
+                        <foaf:givenname>Timothy L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayernik</foaf:surname>
+                        <foaf:givenname>Matthew</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McKiernan</foaf:surname>
+                        <foaf:givenname>Erin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mentzel</foaf:surname>
+                        <foaf:givenname>Chris</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merchant</foaf:surname>
+                        <foaf:givenname>Nirav</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niemeyer</foaf:surname>
+                        <foaf:givenname>Kyle E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noren</foaf:surname>
+                        <foaf:givenname>Laura</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nusser</foaf:surname>
+                        <foaf:givenname>Sarah M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reed</foaf:surname>
+                        <foaf:givenname>Daniel A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seidel</foaf:surname>
+                        <foaf:givenname>Edward</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenname>MacKenzie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spies</foaf:surname>
+                        <foaf:givenname>Jeffrey R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turk</foaf:surname>
+                        <foaf:givenname>Matt</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Van Horn</foaf:surname>
+                        <foaf:givenname>John D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walsh</foaf:surname>
+                        <foaf:givenname>Jay</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_74"/>
+        <link:link rdf:resource="#item_73"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/7-1926/v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1926</bib:pages>
+        <dc:date>2018-12-11</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:44:58</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>In the 21st Century, research is increasingly data- and computation-driven. Researchers, funders, and the larger community today emphasize the traits of openness and reproducibility. In March 2017, 13 mostly early-career research leaders who are building their careers around these traits came together with ten university leaders (presidents, vice presidents, and vice provosts), representatives from four funding agencies, and eleven organizers and other stakeholders in an NIH- and NSF-funded one-day, invitation-only workshop titled &quot;Imagining Tomorrow's University.&quot; Workshop attendees were charged with launching a new dialog around open research – the current status, opportunities for advancement, and challenges that limit sharing.
+            The workshop examined how the internet-enabled research world has changed, and how universities need to change to adapt commensurately, aiming to understand how universities can and should make themselves competitive and attract the best students, staff, and faculty in this new world. During the workshop, the participants re-imagined scholarship, education, and institutions for an open, networked era, to uncover new opportunities for universities to create value and serve society. They expressed the results of these deliberations as a set of 22 principles of tomorrow's university across six areas: credit and attribution, communities, outreach and engagement, education, preservation and reproducibility, and technologies.
+            Activities that follow on from workshop results take one of three forms. First, since the workshop, a number of workshop authors have further developed and published their white papers to make their reflections and recommendations more concrete. These authors are also conducting efforts to implement these ideas, and to make changes in the university system.  Second, we plan to organise a follow-up workshop that focuses on how these principles could be implemented. Third, we believe that the outcomes of this workshop support and are connected with recent theoretical work on the position and future of open knowledge institutions.</dcterms:abstract>
+        <dc:title>The principles of tomorrow's university</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/74/Katz et al. - 2018 - The principles of tomorrow's university.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://f1000research.com/articles/7-1926/v1/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:45:11</dcterms:dateSubmitted>
+        <dc:title>Full Text</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/73/7-1926.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://f1000research.com/articles/7-1926</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:45:09</dcterms:dateSubmitted>
+        <dc:title>The principles of tomorrow's university | F1000Research</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://openresearchsoftware.metajnl.com/articles/10.5334/jors.242/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2049-9647"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katz</foaf:surname>
+                        <foaf:givenname>Daniel S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Druskat</foaf:surname>
+                        <foaf:givenname>Stephan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haines</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jay</foaf:surname>
+                        <foaf:givenname>Caroline</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Struck</foaf:surname>
+                        <foaf:givenname>Alexander</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_76"/>
+        <link:link rdf:resource="#item_77"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>research software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>sustainable software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://openresearchsoftware.metajnl.com/articles/10.5334/jors.242/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Authors who publish with this journal agree to the following terms:    Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  All third-party images reproduced on this journal are shared under Educational Fair Use. For more information on  Educational Fair Use , please see  this useful checklist prepared by Columbia University Libraries .   All copyright  of third-party content posted here for research purposes belongs to its original owners.  Unless otherwise stated all references to characters and comic art presented on this journal are ©, ® or ™ of their respective owners. No challenge to any owner’s rights is intended or should be inferred.</dc:rights>
+        <bib:pages>11</bib:pages>
+        <dc:date>2019-04-02</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:47:17</dcterms:dateSubmitted>
+        <z:libraryCatalog>openresearchsoftware.metajnl.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>This paper uses the accepted submissions from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1) held in Manchester, UK in September 2017 and the speed blogs written during the event to examine the state of research software. It presents a schematic of the space, then examines coverage in terms of topics, actors, actees, and themes by both the submissions and the blogs.</dcterms:abstract>
+        <dc:title>The State of Sustainable Research Software: Learning from the Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE5.1)</dc:title>
+        <z:shortTitle>The State of Sustainable Research Software</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2049-9647">
+        <prism:volume>7</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Journal of Open Research Software</dc:title>
+        <dc:identifier>ISSN 2049-9647</dc:identifier>
+        <dc:identifier>DOI 10.5334/jors.242</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_76">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/76/Katz et al. - 2019 - The State of Sustainable Research Software Learni.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://openresearchsoftware.metajnl.com/articles/10.5334/jors.242/galley/357/download/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:47:28</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/jors.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openresearchsoftware.metajnl.com/articles/10.5334/jors.242/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:47:45</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://peerj.com/preprints/2630">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>PeerJ Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katz</foaf:surname>
+                        <foaf:givenname>Daniel S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niemeyer</foaf:surname>
+                        <foaf:givenname>Kyle E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenname>Arfon M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenname>William L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boettiger</foaf:surname>
+                        <foaf:givenname>Carl</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hinsen</foaf:surname>
+                        <foaf:givenname>Konrad</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hooft</foaf:surname>
+                        <foaf:givenname>Rob</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hucka</foaf:surname>
+                        <foaf:givenname>Michael</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenname>Allen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Löffler</foaf:surname>
+                        <foaf:givenname>Frank</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pollard</foaf:surname>
+                        <foaf:givenname>Tom</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rios</foaf:surname>
+                        <foaf:givenname>Fernando</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <link:link rdf:resource="#item_80"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/2630</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-12-10</dc:date>
+        <dc:description>DOI: 10.7287/peerj.preprints.2630v1</dc:description>
+        <dcterms:dateSubmitted>2019-06-19 01:47:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>peerj.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Software is data, but it is not just data. While &quot;data&quot; in computing and information science can refer to anything that can be processed by a computer, software is a special kind of data that can be a creative, executable tool that operates on data. However, software and data are similar in that they both traditionally have not been cited in publications. This paper discusses the differences between software and data in the context of citation, by providing examples and referring to evidence in the form of citations.</dcterms:abstract>
+        <prism:number>e2630v1</prism:number>
+        <dc:title>Software vs. data in the context of citation</dc:title>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/Katz et al. - 2016 - Software vs. data in the context of citation.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/2630.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:47:58</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_80">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/80/2630.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/2630/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:48:17</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/8565942/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1521-9615,%201558-366X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katz</foaf:surname>
+                        <foaf:givenname>Daniel S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McInnes</foaf:surname>
+                        <foaf:givenname>Lois Curfman</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bernholdt</foaf:surname>
+                        <foaf:givenname>David E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mayes</foaf:surname>
+                        <foaf:givenname>Abigail Cabunoc</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hong</foaf:surname>
+                        <foaf:givenname>Neil P. Chue</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duckles</foaf:surname>
+                        <foaf:givenname>Jonah</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gesing</foaf:surname>
+                        <foaf:givenname>Sandra</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heroux</foaf:surname>
+                        <foaf:givenname>Michael A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hettrick</foaf:surname>
+                        <foaf:givenname>Simon</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jimenez</foaf:surname>
+                        <foaf:givenname>Rafael C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pierce</foaf:surname>
+                        <foaf:givenname>Marlon</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weaver</foaf:surname>
+                        <foaf:givenname>Belinda</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilkins-Diehr</foaf:surname>
+                        <foaf:givenname>Nancy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_82"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/8565942/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>8-24</bib:pages>
+        <dc:date>2019-3-1</dc:date>
+        <dcterms:dateSubmitted>2019-06-19 01:49:40</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Community Organizations: Changing the Culture in Which Research Software Is Developed and Sustained</dc:title>
+        <z:shortTitle>Community Organizations</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1521-9615,%201558-366X">
+        <prism:volume>21</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Computing in Science &amp; Engineering</dc:title>
+        <dc:identifier>ISSN 1521-9615, 1558-366X</dc:identifier>
+        <dcterms:alternative>Comput. Sci. Eng.</dcterms:alternative>
+        <dc:identifier>DOI 10.1109/MCSE.2018.2883051</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_82">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/82/Katz et al. - 2019 - Community Organizations Changing the Culture in W.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1811.08473</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-06-19 01:49:59</dcterms:dateSubmitted>
+        <dc:title>Submitted Version</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
